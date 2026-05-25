@@ -25,7 +25,7 @@
 
 Q1： (範例：缺乏XXX，輸入XXX)
 
-Q2： 
+Q2： 1234
 
 Q3： 
 
@@ -44,9 +44,9 @@ Q5：
 請貼出你對 AI 下達過最有效的 3 個 Prompt：
 
 ```log
-Prompt A： ...
+Prompt A： 1123
 
-Prompt B： ...
+Prompt B： ...ˊˊˊˊˊˊ
 
 Prompt C： ...
 ```
