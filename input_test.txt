@@ -1,0 +1,5 @@
+add breakfast/100/eat
+add bus/20/walk
+add dinner/150/eat
+show
+exit

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "breakfast",
+        "amount": 100,
+        "category": "eat"
+    },
+    {
+        "name": "bus",
+        "amount": 20,
+        "category": "walk"
+    },
+    {
+        "name": "dinner",
+        "amount": 150,
+        "category": "eat"
+    }
+]
